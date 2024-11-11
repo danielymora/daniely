@@ -24,7 +24,7 @@
     background-color: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 4px 12px rgba(221, 21, 21, 0.1);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     font-family: 'Open Sans', sans-serif;
     max-width: 100%;
     line-height: 1.6;
