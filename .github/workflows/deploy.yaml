@@ -35,8 +35,7 @@ jobs:
       # Step 5: Configure Git for Deployment
       - name: Set up Git for GitHub Pages
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "danielymora"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         working-directory: daniely
 
