@@ -1,6 +1,6 @@
 <template>
     <section class="about-me">
-      <h2>About Me</h2>
+      <h2>About Me - TEST</h2>
       <p>
         I work as a Junior Project Coordinator at Quant16, specializing in GIS to help companies find solutions using Esri products. I am passionate about technology and problem-solving and strive to deliver impactful results.
       </p>
