@@ -9,4 +9,4 @@ If you wish to edit the contents of the website, find the component you want to 
 
 For instance, if you want to edit the About Me section, edit the [AboutMe.vue component](daniely/src/components/AboutMe.vue)
 
-To change the picture, add a new image at the daniely/src/assets location and then reference that file in [ProfileImage.vue](daniely/src/components/AboutMe.vue)
+To change the picture, add a new image at the daniely/src/assets location and then reference that file in [ProfileImage.vue](daniely/src/components/ProfileImage.vue)
