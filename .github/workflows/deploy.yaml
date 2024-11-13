@@ -9,6 +9,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
+    # Explicitly set permissions to allow pushing to the gh-pages branch
+    permissions:
+      contents: write  # Grant write permissions to the contents of the repository
+
     steps:
       # Step 1: Checkout the repository
       - name: Checkout code
@@ -22,7 +26,7 @@ jobs:
         with:
           node-version: '16'
 
-      # Step 3: Install dependencies using npm install
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
         working-directory: daniely
@@ -33,13 +37,16 @@ jobs:
         working-directory: daniely
 
       # Step 5: Configure Git for Deployment
-      - name: Set up Git for GitHub Pages
+      - name: Configure Git
         run: |
-          git config --global user.name "danielymora"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
         working-directory: daniely
 
       # Step 6: Deploy to GitHub Pages using deploy-ci script
       - name: Deploy to GitHub Pages
-        run: npm run deploy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run deploy-ci
         working-directory: daniely
