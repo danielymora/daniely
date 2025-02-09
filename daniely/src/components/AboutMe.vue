@@ -2,10 +2,10 @@
     <section class="about-me">
       <h2>About Me</h2>
       <p>
-        I work as a Junior Project Coordinator at Quant16, specializing in GIS to help companies find solutions using Esri products. I am passionate about technology and problem-solving and strive to deliver impactful results.
+        I work as a General Manager at PingPod Philly, specializing in community engagement and program development, serving as a social media strategist, and proudly representing Killerspin as a sponsored athlete. I am passionate about technology and problem-solving and strive to deliver impactful results.
       </p>
       <p>
-        In addition to my work, I am also a professional table tennis athlete at Killerspin. This involves coordinating events, conducting clinics, and assisting with social media. Through my athletic career, I have gained valuable skills such as discipline, teamwork, and a strong work ethic.
+       Through my athletic career, I have gained valuable skills such as discipline, teamwork, and a strong work ethic.
       </p>
       <p>
         By combining my technical skills with sports experience, I bring a unique perspective to my work. I am eager to connect and explore opportunities to collaborate.
