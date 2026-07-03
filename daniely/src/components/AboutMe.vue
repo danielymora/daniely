@@ -3,9 +3,11 @@
       <h2>About Me</h2>
       <p>
         I work as a General Manager at PingPod Philly, specializing in community engagement and program development, serving as a social media strategist, and proudly representing Killerspin as a sponsored athlete. I am passionate about technology and problem-solving and strive to deliver impactful results.
+          <p></p>
       </p>
       <p>
        Through my athletic career, I have gained valuable skills such as discipline, teamwork, and a strong work ethic.
+          <p></p>
       </p>
       <p>
         By combining my technical skills with sports experience, I bring a unique perspective to my work. I am eager to connect and explore opportunities to collaborate. 
