@@ -2,16 +2,13 @@
     <section class="about-me">
       <h2>About Me</h2>
       <p>
-        I work as a General Manager at PingPod Philly, specializing in community engagement and program development, serving as a social media strategist, and proudly representing Killerspin as a sponsored athlete. I am passionate about technology and problem-solving and strive to deliver impactful results.
-          <p></p>
+        I'm a professional table tennis player sponsored by Killerspin, a former member of Puerto Rico's national team, and a Pan American Champion with more than 20 years of experience in the sport. Competing at the highest levels of international table tennis has shaped me both as an athlete and as a person.
       </p>
       <p>
-       Through my athletic career, I have gained valuable skills such as discipline, teamwork, and a strong work ethic.
-          <p></p>
+        Right now, I work as a Marketing Manager at PingPod, and I also coach table tennis. I help players, run community projects, and organize events to grow the sport. I also make content and support player development. I work with table tennis brands like MLTT, Killerspin, and PongBot, and I love creating content in my free time. My goal is to make sure everyone feels welcome and supported, no matter their age or level.
       </p>
       <p>
-        By combining my technical skills with sports experience, I bring a unique perspective to my work. I am eager to connect and explore opportunities to collaborate. 
-          <p></p>
+        What I enjoy most is meeting new people and connecting with them. I like to bring good energy wherever I go and help others feel more confident through table tennis. When I coach, organize events, or share stories online, I always try to make table tennis fun and easy for everyone to join.
       </p>
     </section>
   </template>
@@ -44,6 +41,6 @@
   p {
     font-size: 1.2em;
     color: #555;
+    margin-bottom: 16px;
   }
   </style>
-  
