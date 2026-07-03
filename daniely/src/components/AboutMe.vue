@@ -8,7 +8,8 @@
        Through my athletic career, I have gained valuable skills such as discipline, teamwork, and a strong work ethic.
       </p>
       <p>
-        By combining my technical skills with sports experience, I bring a unique perspective to my work. I am eager to connect and explore opportunities to collaborate.
+        By combining my technical skills with sports experience, I bring a unique perspective to my work. I am eager to connect and explore opportunities to collaborate. 
+          <p></p>
       </p>
     </section>
   </template>
